@@ -1,0 +1,45 @@
+{
+  "action_share": "Share",
+  "action_copy": "Copy",
+  "action_open_with_browser": "Open with browser",
+  "action_exit": "Exit",
+
+  "button_ok": "Ok",
+  "button_cancel": "Cancel",
+  "button_close": "Close",
+  "button_home": "Home",
+  "button_update": "Update",
+  "button_try_again": "Try again",
+  "button_skip": "Skip",
+  "button_enable_location": "Enable location",
+  "button_next": "Next",
+
+  "toast_copied": "Copy successful!",
+
+  "text_opps": "Opps!",
+  "text_not_found": "Sorry we can't find this page. Please try again.",
+
+  "screen_empty": "Code Base",
+  "screen_web": "",
+
+  "title_alert_crash": "Notice",
+  "message_alert_crash": "The action can't be completed. Please try again!",
+  "title_alert_no_connection": "Can't connect",
+  "message_alert_no_connection": "Check your Wifi/3G/4G connection!",
+  "title_alert_no_internet": "No internet connection",
+  "message_alert_no_internet": "No internet connection. Please set up your Wifi/3G/4G!",
+  "title_alert_strength_internet": "Weak internet connection",
+  "message_alert_strength_internet": "Unstable internet connection. Please turn on/off Wifi/3G/4G and try again!",
+  "title_alert_open_url": "Notice",
+  "message_alert_open_url": "Failed to open this link. Please try again!",
+  "title_alert_auth": "Notice",
+  "message_alert_auth": "Login session expired. Please log in again!",
+  "title_alert_timeout": "Notice",
+  "message_alert_timeout": "Data processing timed out. Please try again!",
+  "title_alert_network_error": "Notice",
+  "message_alert_network_error": "No internet connection. Please set up your Wifi/3G/4G!",
+  "title_alert_request": "Notice",
+  "message_alert_request": "The system is under maintenance. Please try again!",
+  "title_alert_permissions": "Request permission",
+  "message_alert_location_permission": "Allow application to access your location."
+}
