@@ -25,7 +25,7 @@
 		<dict>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>fb1227905084294807</string>
+				<string>fb162481059245406</string>
 				<string>reactnativebasecode</string>
 				<string>com.reactnativebasecode</string>
 			</array>
@@ -36,7 +36,7 @@
 	<key>CodePushDeploymentKey</key>
 	<string>mWWCwxMKhmVXDpQ6qAS5dGI4wO069gQT8hdvP</string>
 	<key>FacebookAppID</key>
-	<string>1227905084294807</string>
+	<string>162481059245406</string>
 	<key>FacebookDisplayName</key>
 	<string>Code Base</string>
 	<key>LSApplicationQueriesSchemes</key>
