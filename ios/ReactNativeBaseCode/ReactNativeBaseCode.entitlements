@@ -6,7 +6,7 @@
 	<string>development</string>
 	<key>com.apple.security.application-groups</key>
 	<array>
-		<string>group.com.codebase.onesignal</string>
+		<string>group.com.reactnativebasecode.onesignal</string>
 	</array>
 </dict>
 </plist>

@@ -144,7 +144,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.codebase"
+        applicationId "com.reactnativebasecode"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 10000

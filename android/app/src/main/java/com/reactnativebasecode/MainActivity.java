@@ -1,4 +1,4 @@
-package com.codebase;
+package com.reactnativebasecode;
 
 import android.os.Bundle;
 
@@ -17,7 +17,7 @@ public class MainActivity extends ReactActivity {
      */
     @Override
     protected String getMainComponentName() {
-        return "CodeBase";
+        return "ReactNativeBaseCode";
     }
 
     @Override

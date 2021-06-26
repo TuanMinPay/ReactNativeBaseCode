@@ -1,4 +1,4 @@
-package com.codebase.modules;
+package com.reactnativebasecode.modules;
 
 import android.Manifest;
 import android.content.Context;

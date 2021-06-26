@@ -1,4 +1,4 @@
-package com.codebase.utils;
+package com.reactnativebasecode.utils;
 
 import android.content.Context;
 

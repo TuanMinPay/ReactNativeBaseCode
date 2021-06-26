@@ -2,7 +2,7 @@
     <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT</string>
     <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
     <string name="CodePushDeploymentKey" moduleConfig="true">pfp2feaYfa4cfhq9DuL-5q-X0ZDhZOKDy4tBk</string>
-    <string name="app_name">CodeBase</string>
+    <string name="app_name">ReactNativeBaseCode</string>
     <string name="facebook_app_id">1227905084294807</string>
     <string name="fb_login_protocol_scheme">fb1227905084294807</string>
 </resources>

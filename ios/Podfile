@@ -3,7 +3,7 @@ require_relative '../node_modules/@react-native-community/cli-platform-ios/nativ
 
 platform :ios, '10.0'
 
-target 'CodeBase' do
+target 'ReactNativeBaseCode' do
   config = use_native_modules!
 
   use_react_native!(:path => config["reactNativePath"])
@@ -18,7 +18,7 @@ target 'CodeBase' do
 
   pod 'SVProgressHUD'
 
-  target 'CodeBaseTests' do
+  target 'ReactNativeBaseCodeTests' do
     inherit! :complete
     # Pods for testing
   end
@@ -33,10 +33,10 @@ target 'CodeBase' do
   end
 end
 
-target 'CodeBase-tvOS' do
-  # Pods for CodeBase-tvOS
+target 'ReactNativeBaseCode-tvOS' do
+  # Pods for ReactNativeBaseCode-tvOS
 
-  target 'CodeBase-tvOSTests' do
+  target 'ReactNativeBaseCode-tvOSTests' do
     inherit! :search_paths
     # Pods for testing
   end

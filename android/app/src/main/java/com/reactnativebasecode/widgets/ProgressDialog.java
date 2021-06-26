@@ -1,4 +1,4 @@
-package com.codebase.widgets;
+package com.reactnativebasecode.widgets;
 
 import android.app.Activity;
 import android.app.Dialog;
@@ -7,7 +7,7 @@ import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.ProgressBar;
 
-import com.codebase.R;
+import com.reactnativebasecode.R;
 
 public class ProgressDialog {
 

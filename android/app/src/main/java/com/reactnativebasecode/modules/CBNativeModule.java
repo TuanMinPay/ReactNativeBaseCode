@@ -1,9 +1,9 @@
-package com.codebase.modules;
+package com.reactnativebasecode.modules;
 
 import android.content.pm.PackageManager;
 
-import com.codebase.utils.DeviceUtil;
-import com.codebase.widgets.ProgressDialog;
+import com.reactnativebasecode.utils.DeviceUtil;
+import com.reactnativebasecode.widgets.ProgressDialog;
 import com.facebook.react.bridge.ReactApplicationContext;
 import com.facebook.react.bridge.ReactContextBaseJavaModule;
 import com.facebook.react.bridge.ReactMethod;

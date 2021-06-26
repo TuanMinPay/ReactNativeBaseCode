@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.codebase">
+    package="com.reactnativebasecode">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
@@ -44,15 +44,15 @@
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-            <intent-filter android:label="codebase">
+            <intent-filter android:label="reactnativebasecode">
                 <action android:name="android.intent.action.VIEW" />
 
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
 
-                <data android:host="codebase" android:scheme="codebase" />
-                <data android:host="codebase.page.link" android:scheme="http" />
-                <data android:host="codebase.page.link" android:scheme="https" />
+                <data android:host="reactnativebasecode" android:scheme="reactnativebasecode" />
+                <data android:host="reactnativebasecode.page.link" android:scheme="http" />
+                <data android:host="reactnativebasecode.page.link" android:scheme="https" />
             </intent-filter>
         </activity>
         <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
